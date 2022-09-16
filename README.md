@@ -4,15 +4,15 @@
 
         Overview
 
-  Louise, an up-and-coming Playwright, is planning to launch a crowdfunding campaign to help fund her play to be called “Fever”. This is her first fundraising campaign, so she has enlisted our help. 
+   Louise, an up-and-coming Playwright, is planning to launch a crowdfunding campaign to help fund her play to be called “Fever”. This is her first fundraising campaign, so she has enlisted our help. 
 
-  The purpose of this analysis is to comb through past Kickstarter fundraising data and 
+   The purpose of this analysis is to comb through past Kickstarter fundraising data and 
 pull from it any findings that can help Louise estimate the best budget for her new play 
 “Fever” and ensure the overall success of her first crowdfunding campaign.
 
-  Some relevant information in this dataset includes but is not limited to funding goals and pledged amounts, launch and deadline dates, outcomes, and categories.
+   Some relevant information in this dataset includes but is not limited to funding goals and pledged amounts, launch and deadline dates, outcomes, and categories.
 
-  This analysis will specifically look at fundraising outcomes by categories, fundraising outcomes based on launch dates and fundraising outcomes based on goals. 
+   This analysis will specifically look at fundraising outcomes by categories, fundraising outcomes based on launch dates and fundraising outcomes based on goals. 
 
 We hope that the results of this analysis will be useful in helping Louise kickstart a successful campaign.
 
