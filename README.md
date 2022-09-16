@@ -2,7 +2,7 @@
 
     # Kickstarter Crowdfunding Campaigns Analysis.
 
-    Overview
+        Overview
 
   Louise, an up-and-coming Playwright, is planning to launch a crowdfunding campaign to help fund her play to be called “Fever”. This is her first fundraising campaign, so she has enlisted our help. 
 
@@ -29,20 +29,21 @@ There was no challenge encountered in this section.
   
 There was no challenge encountered in this section.
 
-The third analysis dealt with counting the successful, failed and canceled outcomes of subcategory plays in specified goal ranges provided. We used the COUNTIFS excel formula to fill each of the columns, the SUM formula for total projects, and the ROUND formula for percentages. We then use the insert tool to add a line chart visualizing the outcomes.
+  The third analysis dealt with counting the successful, failed and canceled outcomes of subcategory plays in specified goal ranges provided. We used the COUNTIFS excel formula to fill each of the columns, the SUM formula for total projects, and the ROUND formula for percentages. We then use the insert tool to add a line chart visualizing the outcomes.
+
 
 	Challenges Details
 
 The most challenging part of the overall analysis was the Outcomes based on goals potion. The initial chart of outcomes percentages given the specific ranges was not matching the image in the instructions. After verifying the data using filters, consulting a tutor and joining classmates and TA during office hours, we discover that the goals and pledged columns values were changed at some point, possibly during formatting. After the original data was restored, the chart was corrected.
 
-Results
-
+	Results
 
 From the categories analysis we can see that, theater has the most successful campaigns.
 
 From the outcomes based on Launch dates we can see that, May and June were the months with the most successful campaigns
 
 From the outcomes based on goals we can see that, the lower the goal amount the more successful the outcome. Louise estimated budget is around $10000 which has 54% success rate.
+
 
 We hope this overall analysis will help Louise feel more confident about initiating a successful first cowdfunding campaign.
 
