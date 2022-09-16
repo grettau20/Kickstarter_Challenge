@@ -1,8 +1,8 @@
 # Kickstarter_Challenge
 
-    # Kickstarter Crowdfunding Campaigns Analysis.
+    ## Kickstarter Crowdfunding Campaigns Analysis.
 
-        Overview
+        ### Overview
 
    Louise, an up-and-coming Playwright, is planning to launch a crowdfunding campaign to help fund her play to be called “Fever”. This is her first fundraising campaign, so she has enlisted our help. 
 
@@ -16,9 +16,9 @@ pull from it any findings that can help Louise estimate the best budget for her 
 
 We hope that the results of this analysis will be useful in helping Louise kickstart a successful campaign.
 
-    How the analysis was performed, and challenges encountered
+    ### How the analysis was performed, and challenges encountered
 
-	Analysis Details
+	#### Analysis Details
 
   The first analysis involved looking at outcomes based on categories and subcategories. Since these two were grouped into one column, we first split them into two separate columns (Parent categories and subcategories) by using the text to columns tab under the data tool. 
 We were then able to create pivot tables and charts by using the insert tool and pivot table and pivot chart tabs respectively to display and visualize the outcomes based on parent category and subcategories. In both, a country filter was applied to narrow down the data to the US outcomes which are what Louise would be interested in.
@@ -32,11 +32,11 @@ There was no challenge encountered in this section.
   The third analysis dealt with counting the successful, failed and canceled outcomes of subcategory plays in specified goal ranges provided. We used the COUNTIFS excel formula to fill each of the columns, the SUM formula for total projects, and the ROUND formula for percentages. We then use the insert tool to add a line chart visualizing the outcomes.
 
 
-	Challenges Details
+	#### Challenges Details
 
 The most challenging part of the overall analysis was the Outcomes based on goals potion. The initial chart of outcomes percentages given the specific ranges was not matching the image in the instructions. After verifying the data using filters, consulting a tutor and joining classmates and TA during office hours, we discover that the goals and pledged columns values were changed at some point, possibly during formatting. After the original data was restored, the chart was corrected.
 
-	Results
+	### Results
 
 From the categories analysis we can see that, theater has the most successful campaigns.
 
